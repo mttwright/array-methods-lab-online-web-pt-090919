@@ -1,5 +1,5 @@
 def using_include(array, element)
-
+  ham = []
 end
 
 def using_sort(array)
