@@ -22,9 +22,3 @@ def using_size(array)
 
 end
 
-def bologna
-  ham = []
-end
-
-cheese = bologna
-
